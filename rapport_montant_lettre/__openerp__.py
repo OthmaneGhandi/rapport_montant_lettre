@@ -4,7 +4,7 @@
     'name': 'Factures-Commandes avec le montant en lettres en Francais(qweb)',
     'version': '1.0',
     'depends': ['account'],
-    "author" : "Othmane GHANDI, OSI Soft",
+    "author" : "Othmane GHANDI, OSI Soft, Nextma",
     "website" : "http://www.odoo.gotodoo.com",
     'description': "Ce module permet de  convertir le montant des factures et des Bons de commande  en lettres (en Francais) dans le rapport pdf",
     'category': 'Generic Modules/Accounting',
